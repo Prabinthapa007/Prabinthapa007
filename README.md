@@ -1,38 +1,25 @@
-👋 Hello there, I'm Prabin Thapa from Nepal!
+# 👋 Hello there, I'm Prabin Thapa from Nepal!
 
 I'm a Business Student engaged in Data and Business Analytics field. Welcome to my GitHub profile!
 
+## 🔧 Technologies & Tools
+- Programming Languages: Python
+- Data Science Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- Deep Learning Frameworks: TensorFlow, Keras, PyTorch
+- Tools & Software: Jupyter Notebook, VS Code, Git
 
-
-🔧 Technologies & Tools
-
-Programming Languages: Python
-Data Science Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-Deep Learning Frameworks: TensorFlow, Keras, PyTorch
-Tools & Software: Jupyter Notebook, VS Code, Git
-
-
-
-🌱 Currently Learning
-
+## 🌱 Currently Learning
 I'm currently diving deeper into:
-Deep Learning in Machine Learning
-SQL
+- Deep Learning in Machine Learning
+- SQL
 
+## 💼 Professional Experience
+I am starting to get deeper into the Data Science field.
 
-
-💼 Professional Experience
-
-I am starting to get depper into Data Science field.
-
-
-
-📫 Get in Touch
-
-LinkedIn: https://www.linkedin.com/feed/     
-Instagram: https://www.instagram.com/mellow_prabin/?hl=en
+## 📫 Get in Touch
+LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/feed/)     
+Instagram: [Follow on Instagram](https://www.instagram.com/mellow_prabin/?hl=en)  
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat!
-
 
 Thank you for visiting! Enjoy exploring my repositories! 😊
 
